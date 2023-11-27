@@ -2,7 +2,7 @@
 
 Information:
 
-
+Password for archive: 2023
 
 -Supports Windows 10 : (2004, 20H2, 21H1, 21H2, 22H2) / Windows 11
 
